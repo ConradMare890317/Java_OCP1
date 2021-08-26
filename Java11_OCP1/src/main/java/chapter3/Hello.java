@@ -3,12 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Chap10;
+package chapter3;
 
 /**
  *
  * @author Conrad
  */
-public class Main {
-    
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
